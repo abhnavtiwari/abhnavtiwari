@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhnavtiwari
+- 👋 Hi, I’m @abhinavtiwari
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning  mongoDB,java, js+DSA
 - 💞️ I’m looking to collaborate on ...
